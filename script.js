@@ -3,17 +3,17 @@ const totalCards = 22; // Se duplica para que haya 2 de cada imagen
 // Rutas de las imágenes disponibles
 const availableCards = [
 
-   'Imagenes/0.png',
-   'Imagenes/1.png',
-   'Imagenes/2.png',
-   'Imagenes/3.png',
-   'Imagenes/4.png',
-   'Imagenes/5.png',
-   'Imagenes/6.png',
-   'Imagenes/7.png',
-   'Imagenes/8.png',
-   'Imagenes/9.png',
-   'Imagenes/10.png'
+   '/Imagenes/0.png',
+   '/Imagenes/1.png',
+   '/Imagenes/2.png',
+   '/Imagenes/3.png',
+   '/Imagenes/4.png',
+   '/Imagenes/5.png',
+   '/Imagenes/6.png',
+   '/Imagenes/7.png',
+   '/Imagenes/8.png',
+   '/Imagenes/9.png',
+   '/Imagenes/10.png'
 ];
 // Arreglos y variables para el juego
 let cards = [];
