@@ -27,7 +27,7 @@ let cardTemplate = '<div class="card"><div class="back"><img src="" alt=""></div
 
 //Función para manejar el clic en las cartas
 function activate(e) {
-
+PlayAudio()
    // Verificar si se puede hacer un movimiento
    if (currentMove < 2) {
 
