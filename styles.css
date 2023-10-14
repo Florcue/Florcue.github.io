@@ -85,7 +85,7 @@ body {
 
 .card .back {
    border: none; /* Eliminamos el borde */
-   background: url(imagenes/back.gif) center / cover no-repeat; /* Ajusta la ruta de tu imagen de reverso */
+   background: url(Imagenes/back.gif) center / cover no-repeat; /* Ajusta la ruta de tu imagen de reverso */
 }
 
 
